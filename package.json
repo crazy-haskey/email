@@ -1,0 +1,18 @@
+{
+  "name": "constructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack-dev-server": "*",
+    "babel": "*"
+  }
+}
